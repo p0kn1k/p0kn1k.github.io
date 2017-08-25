@@ -1,0 +1,8 @@
+Origin: p0kn1k
+Label: p0kn1k
+Suite: stable
+Version: 1.0
+Codename: p0kn1k
+Architecture: iphoneos-arm
+Components: main
+Description: tweak
